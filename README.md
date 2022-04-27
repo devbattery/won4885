@@ -1,4 +1,7 @@
-<h1> Hi, I'm Jay</h1>
+<h1> Hi, I'm Jay 🖐 </h1>
+Welcome to my page!
+I'm Jay, Backend developer from 🇰🇷
+
 <p>
   <em>
     <h3>
