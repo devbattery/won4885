@@ -1,6 +1,6 @@
 <h1> Hi, I'm Jay 🖐 </h1>
 Welcome to my page!<br>
-I'm Jay, Backend developer from 🇰🇷
+I'm Wonjun Jeong, Backend developer from 🇰🇷
 
 <p>
   <em>
