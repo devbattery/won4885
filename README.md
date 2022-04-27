@@ -1,5 +1,5 @@
 <h1> Hi, I'm Jay 🖐 </h1>
-Welcome to my page!
+Welcome to my page!<br>
 I'm Jay, Backend developer from 🇰🇷
 
 <p>
