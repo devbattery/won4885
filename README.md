@@ -18,7 +18,7 @@
 <img width=99.8% src="https://activity-graph.herokuapp.com/graph?username=won4885&hide_border=true&theme=tokyo-night" />
 </a>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <h2> Blog ⌥ </h2>
 
