@@ -15,7 +15,7 @@
     <img width=49.5% src="http://github-readme-streak-stats.herokuapp.com?user=won4885&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img width=99.8% src="https://github-readme-activity-graph.cyclic.app/graph?username=won4885&theme=tokyo-night" />
+<img width=99.8% src="https://github-readme-activity-graph.cyclic.app/graph?username=won4885&hide_border=true&theme=tokyo-night" />
 </a>
 
 <br><br>
