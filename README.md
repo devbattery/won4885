@@ -1,7 +1,7 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Welcome!%20I'm%20Jun&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Welcome!%20I'm%20Sully&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&theme=tokyonight)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=628FD9&center=true&width=500&height=70&lines=A+ship+in+harbor+is+safe%2C;but+that+is+not+what+ships+are+built+for.;-+John+A.+Shedd)](https://git.io/typing-svg)
@@ -22,6 +22,6 @@
     
 click 👇
     
-[![Jun's Algorithms](https://whal.eu/i/BpblJMqn)](https://won4885.github.io)
+[![Sully's Algorithms](https://whal.eu/i/BpblJMqn)](https://won4885.github.io)
 
  </div>
