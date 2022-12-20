@@ -9,7 +9,7 @@
 <br>
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=50% src="https://github-readme-stats.vercel.app/api?username=won4885&hide_border=true&show_icons=true&theme=tokyonight" />
+    <img width=49.8% src="https://github-readme-stats.vercel.app/api?username=won4885&hide_border=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://git.io/streak-stats">
     <img width=49.5% src="http://github-readme-streak-stats.herokuapp.com?user=won4885&hide_border=true&theme=tokyonight" />
