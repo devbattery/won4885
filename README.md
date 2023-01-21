@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=628FD9&center=true&width=500&height=70&lines=A+ship+in+harbor+is+safe%2C;but+that+is+not+what+ships+are+built+for.;-+John+A.+Shedd)](https://git.io/typing-svg)
 
 <br>
+    
+![Leetcode Stats](https://leetcard.jacoblin.cool/won4885)
+    
+<br>
 
 click 👇
     
