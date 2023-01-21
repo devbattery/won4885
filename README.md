@@ -4,8 +4,8 @@
 
 <br>
     
-![Leetcode Stats](https://leetcard.jacoblin.cool/won4885)
-    
+![Leetcode Stats](https://leetcard.jacoblin.cool/won4885?theme=dark)
+
 <br>
 
 click 👇
