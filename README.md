@@ -6,21 +6,11 @@
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/won4885?theme=dark)
 
-<br>
-
-click 👇
-    
-<a href="https://won4885.github.io/">
-    <img width=30% src="https://user-images.githubusercontent.com/62871026/209078687-34f7a5c4-0fb8-4389-b240-ef51e50feee2.gif" />
-</a>
-    
-
-<br>
 <hr>
     
-<a href="https://won4885.github.io/">
+<a href="https://sully-tech.dev/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://won4885.github.io/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://sully-tech.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:2dcoder@naver.com">
