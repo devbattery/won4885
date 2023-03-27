@@ -5,6 +5,9 @@
 ### 🧶 Daily LeetCode 🧶
 ![Leetcode Stats](https://leetcard.jacoblin.cool/won4885?theme=dark)
 
+### 🍀 Daily BaekJoon 🍀
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2dcoder)](https://solved.ac/2dcoder/)
+    
 ### 🦄 Tech Blog 🦄
 <a href="http://sully-tech.dev"><img src="https://user-images.githubusercontent.com/62871026/223917522-153a0506-18c9-4ff8-aff8-566a5c2f972a.png" width="100" height="100">
 
