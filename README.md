@@ -2,7 +2,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&duration=3000&pause=1000&color=4AAEFF&width=285&lines=Stay+Hungry%2C+Stay+Foolish)](https://git.io/typing-svg)
 
-### 🧶 Daily LeetCode 🧶
+### 🧶 Weekly LeetCode 🧶
 ![Leetcode Stats](https://leetcard.jacoblin.cool/won4885?theme=dark)
 
 ### 🍀 Daily BaekJoon 🍀
