@@ -12,5 +12,6 @@
 <a href="http://sully-tech.dev"><img src="https://user-images.githubusercontent.com/62871026/235573512-6b12761b-3e30-4c23-b489-57fbdef47287.png" width="100" height="100">
 
 ### 🐳 For Me 🐳
+<a href="sully-tech.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=square&logo=github&color=blue"/></a>
 ![followers](https://img.shields.io/github/followers/won4885?style=social)
 </div>
