@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=2000&pause=1000&width=250&height=70&lines=Sully+(won4885))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=35&duration=3000&pause=1000&color=F7F7F7&background=0D1117F3&width=340&height=60&lines=Sully+(Wonjun+Jeong))](https://git.io/typing-svg)
 
 ### 🧶 Weekly LeetCode 🧶
 ![Leetcode Stats](https://leetcard.jacoblin.cool/won4885?theme=dark)
