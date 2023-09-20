@@ -8,6 +8,6 @@
 
 ### 🐳 Contact Me 🐳
 <a href="https://coded1ary.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=square&logo=github&color=blue"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white&link=mailto:won4885.dev@gmail.com)](mailto:won4885.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white&link=mailto:coded1ary@icloud.com)](mailto:coded1ary@icloud.com)
 
 </div>
